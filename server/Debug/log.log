@@ -1,0 +1,62 @@
+[INFO] 18:25:57:650 Servidor/(102304:102304): Servidor listo para recibir al cliente
+[INFO] 18:33:52:639 Servidor/(102421:102421): Servidor listo para recibir al cliente
+[INFO] 18:34:06:327 Servidor/(102421:102421): Se conecto un cliente!
+[INFO] 18:34:06:327 Servidor/(102421:102421): Me llego el mensaje valor
+[ERROR] 18:34:06:327 Servidor/(102421:102421): el cliente se desconecto. Terminando servidor
+[INFO] 18:48:38:930 Servidor/(102574:102574): Servidor listo para recibir al cliente
+[INFO] 18:48:53:642 Servidor/(102574:102574): Se conecto un cliente!
+[INFO] 18:48:53:642 Servidor/(102574:102574): Me llego el mensaje valor
+[ERROR] 18:48:53:643 Servidor/(102574:102574): el cliente se desconecto. Terminando servidor
+[INFO] 18:50:04:826 Servidor/(102614:102614): Servidor listo para recibir al cliente
+[INFO] 18:50:21:585 Servidor/(102614:102614): Se conecto un cliente!
+[INFO] 18:50:21:585 Servidor/(102614:102614): Me llego el mensaje valor
+[ERROR] 18:50:21:585 Servidor/(102614:102614): el cliente se desconecto. Terminando servidor
+[INFO] 23:26:18:990 Servidor/(103458:103458): Servidor listo para recibir al cliente
+[INFO] 23:27:01:271 Servidor/(103458:103458): Se conecto un cliente!
+[INFO] 23:27:01:271 Servidor/(103458:103458): Me llego el mensaje valor
+[ERROR] 23:27:01:271 Servidor/(103458:103458): el cliente se desconecto. Terminando servidor
+[INFO] 23:30:07:219 Servidor/(103526:103526): Servidor listo para recibir al cliente
+[INFO] 23:30:12:445 Servidor/(103526:103526): Se conecto un cliente!
+[INFO] 23:30:12:445 Servidor/(103526:103526): Me llego el mensaje valor
+[ERROR] 23:30:12:445 Servidor/(103526:103526): el cliente se desconecto. Terminando servidor
+[INFO] 23:32:36:313 Servidor/(103574:103574): Servidor listo para recibir al cliente
+[INFO] 23:32:42:287 Servidor/(103574:103574): Se conecto un cliente!
+[INFO] 23:32:47:155 Servidor/(103574:103574): Me llego el mensaje Paquete
+[INFO] 23:32:47:155 Servidor/(103574:103574): Me llegaron los siguientes valores:
+
+[INFO] 23:32:47:155 Servidor/(103574:103574): chau adio
+[ERROR] 23:32:47:155 Servidor/(103574:103574): el cliente se desconecto. Terminando servidor
+[INFO] 23:38:51:636 Servidor/(103645:103645): Servidor listo para recibir al cliente
+[INFO] 23:39:04:722 Servidor/(103645:103645): Se conecto un cliente!
+[INFO] 23:39:10:882 Servidor/(103645:103645): Me llego el mensaje Paquete
+[INFO] 23:39:10:882 Servidor/(103645:103645): Me llegaron los siguientes valores:
+
+[INFO] 23:39:10:882 Servidor/(103645:103645): hola paqu
+[INFO] 23:39:10:882 Servidor/(103645:103645): adios paq
+[ERROR] 23:39:10:882 Servidor/(103645:103645): el cliente se desconecto. Terminando servidor
+[INFO] 23:39:52:241 Servidor/(103673:103673): Servidor listo para recibir al cliente
+[INFO] 23:40:01:858 Servidor/(103673:103673): Se conecto un cliente!
+[INFO] 23:40:01:858 Servidor/(103673:103673): Me llego el mensaje valor
+[INFO] 23:40:09:166 Servidor/(103673:103673): Me llego el mensaje Paquete
+[INFO] 23:40:09:166 Servidor/(103673:103673): Me llegaron los siguientes valores:
+
+[INFO] 23:40:09:166 Servidor/(103673:103673): holahola
+[INFO] 23:40:09:166 Servidor/(103673:103673): chauchauàM^
+[ERROR] 23:40:09:166 Servidor/(103673:103673): el cliente se desconecto. Terminando servidor
+[INFO] 23:41:13:981 Servidor/(103705:103705): Servidor listo para recibir al cliente
+[INFO] 23:41:21:032 Servidor/(103705:103705): Se conecto un cliente!
+[INFO] 23:41:21:032 Servidor/(103705:103705): Me llego el mensaje valor
+[INFO] 23:41:28:145 Servidor/(103705:103705): Me llego el mensaje Paquete
+[INFO] 23:41:28:145 Servidor/(103705:103705): Me llegaron los siguientes valores:
+
+[INFO] 23:41:28:145 Servidor/(103705:103705): hola paquete
+[INFO] 23:41:28:145 Servidor/(103705:103705): chau paquete
+[ERROR] 23:41:28:145 Servidor/(103705:103705): el cliente se desconecto. Terminando servidor
+[INFO] 23:45:28:552 Servidor/(103808:103808): Servidor listo para recibir al cliente
+[INFO] 23:45:34:007 Servidor/(103808:103808): Se conecto un cliente!
+[INFO] 23:45:34:007 Servidor/(103808:103808): Me llego el mensaje valor
+[INFO] 23:45:51:369 Servidor/(103808:103808): Me llegaron los siguientes valores:
+
+[INFO] 23:45:51:370 Servidor/(103808:103808): chau paquete
+[INFO] 23:45:51:370 Servidor/(103808:103808): ni nos vimos
+[ERROR] 23:45:51:370 Servidor/(103808:103808): el cliente se desconecto. Terminando servidor
